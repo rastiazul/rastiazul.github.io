@@ -3,8 +3,8 @@ description: Carajadas que me interesan
 author: David Merino
 email: merino@disroot.org
 #phone: (650) 576-5403
-github: https://github.com/tmjam
-about: An anomaly planted in North America, developed in Central America and popped up South America. 
+github: https://github.com/rastiazul
+about: An anomaly planted in North America, developed in Central America and popped up South America.
 disqus_shortname: merino-1
 #google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
@@ -27,7 +27,7 @@ social:
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
+      link: "https://github.com/rstiazul"
 
 share:
   twitter_username: guanacastesurf
